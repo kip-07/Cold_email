@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Sensitive scripts
+email_generator.ipynb
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Virtual environment
+venv/
+
+# Vector database (Chroma / embeddings)
+vectorstore/
