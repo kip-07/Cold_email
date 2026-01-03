@@ -4,7 +4,9 @@ This project is an AI-powered cold email generation system that automatically an
 
 The system follows a Retrieval-Augmented Generation (RAG) architecture using **LangChain**, **Groq LLM**, **ChromaDB**, and **Streamlit**.
 
+## Screenshot
 
+![alt text](assets/image.png)
 
 # 🧠 Why This Is a RAG Pipeline
 
