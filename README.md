@@ -1,6 +1,13 @@
 # 🚀 AI-Powered Cold Email Generator (RAG Pipeline)
 
-This project is an AI-powered cold email generation system that automatically analyzes job descriptions, retrieves the most relevant portfolio projects using semantic search, and generates personalized cold emails using an LLM.
+This project is an AI-powered cold email generation system designed for **sales and business development teams** to create **highly contextual B2B outreach emails**.
+
+The system uses **job descriptions as intent signals** to infer a company’s current needs (such as engineering, data, cloud, or security requirements). Based on this context, it retrieves the **most relevant portfolio projects** using semantic search and generates a **personalized cold email** aligned with those needs.
+
+The application follows a **Retrieval-Augmented Generation (RAG)** architecture, ensuring that the generated emails are:
+- Context-aware
+- Grounded in real portfolio data
+- Tailored to the role a company is hiring for
 
 The system follows a Retrieval-Augmented Generation (RAG) architecture using **LangChain**, **Groq LLM**, **ChromaDB**, and **Streamlit**.
 
